@@ -8,8 +8,11 @@ redirect_from:
 ---
 
 I received my Bachelor of Engineering in Computer Science and Technology from the School of Computer Science at Central South University. I am currently pursuing an MSc in Artificial Intelligence in the Department of Mathematics at The University of Hong Kong, with plans to apply for **PhD programs in AI-related fields for Fall 2026.**
+
 My research interests lie in computer vision, image processing and restoration, fine-tuning and applications of multimodal large models, as well as integrating chain-of-thought optimization with federated learning in large-scale models. More details are available in my CV.
+
 I am honored to be supervised by [Prof.Liangqiong Qu](https://liangqiong.github.io/) from the [School of Computing and Data Science](https://www.cds.hku.hk/) at HKU, working on my graduation project which focuses on novel approaches that combine federated learning and chain-of-thought reasoning.
+
 I am keen to join a research lab dedicated to the fine-tuning and application of multimodal large models, and to further explore innovative chain-of-thought paradigms and methodologies in ongoing studies.
 
 
