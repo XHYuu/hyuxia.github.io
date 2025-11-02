@@ -15,6 +15,13 @@ I am honored to be supervised by [Prof.Liangqiong Qu](https://liangqiong.github.
 
 I am keen to join a research lab dedicated to the fine-tuning and application of multimodal large models, and to further explore innovative chain-of-thought paradigms and methodologies in ongoing studies.
 
+我本科毕业于中南大学计算机学院，获得计算机科学与技术工学学士学位。目前，我正在香港大学数学系攻读人工智能理学硕士学位，并计划申请2026年秋季入学的人工智能相关博士项目。
+
+我的研究兴趣包括：计算机视觉、图像处理与恢复、多模态大模型的微调与应用，以及大模型思维链优化与联邦学习结合的方法。更多详细信息请参阅我的简历。
+
+目前，我非常荣幸得到香港大学计算与数据科学学院屈靓教授的指导，逐步完成毕业设计，研究方向为探索联邦学习与思维链结合的新方法。
+
+我非常希望能加入一个专注于多模态大模型微调与应用的实验室，基于多样的思维链模式和创新方法，持续深入相关领域的研究。
 
 A data-driven personal website
 ======
