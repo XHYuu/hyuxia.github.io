@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I received my Bachelor of Engineering in Computer Science and Technology from the School of Computer Science at Central South University. I am currently pursuing an MSc in Artificial Intelligence in the Department of Mathematics at The University of Hong Kong, with plans to apply for **PhD programs in AI-related fields for Fall 2026.**
+My research interests lie in computer vision, image processing and restoration, fine-tuning and applications of multimodal large models, as well as integrating chain-of-thought optimization with federated learning in large-scale models. More details are available in my CV.
+I am honored to be supervised by [Prof.Liangqiong Qu](https://liangqiong.github.io/) from the [School of Computing and Data Science](https://www.cds.hku.hk/) at HKU, working on my graduation project which focuses on novel approaches that combine federated learning and chain-of-thought reasoning.
+I am keen to join a research lab dedicated to the fine-tuning and application of multimodal large models, and to further explore innovative chain-of-thought paradigms and methodologies in ongoing studies.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
