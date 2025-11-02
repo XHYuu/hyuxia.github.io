@@ -1,12 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 I received my Bachelor of Engineering in Computer Science and Technology from the School of Computer Science at Central South University. I am currently pursuing an MSc in Artificial Intelligence in the Department of Mathematics at The University of Hong Kong, with plans to apply for **PhD programs in AI-related fields for Fall 2026.**
 
 My research interests lie in computer vision, image processing and restoration, fine-tuning and applications of multimodal large models, as well as integrating chain-of-thought optimization with federated learning in large-scale models. More details are available in my CV.
