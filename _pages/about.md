@@ -30,7 +30,21 @@ I am keen to join a research lab dedicated to the fine-tuning and application of
 
 📝 Publications
 ======
-A Method of Vehicle Peripheral Objects Detection Based on Binocular Vision
+**A Method of Vehicle Peripheral Objects Detection Based on Binocular Vision (CAC 2023)**
+> **Accepted** at *China Automation Congress 2023*
+
+<img src="这里放你论文里的架构图或者效果图的URL" width="100%" />
+
+*   **Links:** [IEEE Xplore](https://ieeexplore.ieee.org/document/10451039)
+
+---
+
+**Decoupled Residual Denoising Diffusion Models (CVPR 2026 Submission)**
+> **Under Review** at *CVPR 2026*
+<img src="这里放你论文里的架构图或者效果图的URL" width="100%" />
+
+*   **Focus:** Image-to-Image Translation, Diffusion Models
+*   **Note:** Code will be released upon acceptance.
 
 <!--
 Getting started
