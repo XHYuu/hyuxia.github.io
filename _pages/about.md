@@ -30,7 +30,7 @@ I am keen to join a research lab dedicated to the fine-tuning and application of
 
 📝 Publications
 ======
-**A Method of Vehicle Peripheral Objects Detection Based on Binocular Vision (CAC 2023)**
+### A Method of Vehicle Peripheral Objects Detection Based on Binocular Vision (CAC 2023)
 
 *Xinyu Wang, **Hongyu Xia**, Zhichen Huang, Zihao Yuan, Wei Zhou*
 > **Accepted** at *China Automation Congress 2023*
@@ -38,7 +38,7 @@ I am keen to join a research lab dedicated to the fine-tuning and application of
 
 ---
 
-**Decoupled Residual Denoising Diffusion Models (CVPR 2026 Submission)**
+### Decoupled Residual Denoising Diffusion Models (CVPR 2026 Submission)
 
 *Ziyue Lin\*, Jiahe Hou\*, **Hongyu Xia\***, Xinrui Xie, Feifei Wang, Yuyin Zhou, Wei Wang, Jiawei Liu<sup>†</sup>, Liangqiong Qu<sup>†</sup>*
 
