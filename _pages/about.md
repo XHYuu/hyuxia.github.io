@@ -28,6 +28,10 @@ I am keen to join a research lab dedicated to the fine-tuning and application of
 
 2020.09 - 2024.06, obtained Bachelor of Engineering in Computer Science and Technology, School of Computer Science, Central South University
 
+📝 Publications
+======
+A Method of Vehicle Peripheral Objects Detection Based on Binocular Vision
+
 <!--
 Getting started
 ======
