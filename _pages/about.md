@@ -31,15 +31,18 @@ I am keen to join a research lab dedicated to the fine-tuning and application of
 📝 Publications
 ======
 **A Method of Vehicle Peripheral Objects Detection Based on Binocular Vision (CAC 2023)**
-    *   Xinyu Wang, **Hongyu Xia**, Zhichen Huang, Zihao Yuan, Wei Zhou
+
+Xinyu Wang, **Hongyu Xia**, Zhichen Huang, Zihao Yuan, Wei Zhou
 > **Accepted** at *China Automation Congress 2023*
 *   **Links:** [IEEE Xplore](https://ieeexplore.ieee.org/document/10451039)
 
 ---
 
 **Decoupled Residual Denoising Diffusion Models (CVPR 2026 Submission)**
+
+Ziyue Lin\*, Jiahe Hou\*, **Hongyu Xia\***, Xinrui Xie, Feifei Wang, Yuyin Zhou, Wei Wang, Jiawei Liu<sup>†</sup>, Liangqiong Qu<sup>†</sup>
+
 > **Under Review** at *CVPR 2026*
-    *   Ziyue Lin\*, Jiahe Hou\*, **Hongyu Xia\***, Xinrui Xie, Feifei Wang, Yuyin Zhou, Wei Wang, Jiawei Liu<sup>†</sup>, Liangqiong Qu<sup>†</sup>
 <img src="../images/DRDD_method.png" width="100%" />
 
 *   **Focus:** Image-to-Image Translation, Diffusion Models
