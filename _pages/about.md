@@ -43,7 +43,7 @@ I am keen to join a research lab dedicated to the fine-tuning and application of
 *Ziyue Lin\*, Jiahe Hou\*, **Hongyu Xia\***, Xinrui Xie, Feifei Wang, Yuyin Zhou, Wei Wang, Jiawei Liu<sup>†</sup>, Liangqiong Qu<sup>†</sup>*
 
 > **Under Review** at *CVPR 2026*
-<img src="DRDD_method.png" width="100%" />
+<img src="/images/DRDD_method.png" width="100%" />
 
 *   **Focus:** Image-to-Image Translation, Diffusion Models
 *   **Note:** Code will be released upon acceptance.
