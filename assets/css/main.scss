@@ -61,6 +61,17 @@ body { overflow-x: hidden; color: var(--ink); }
 .greedy-nav a { color: var(--ink); }
 .greedy-nav .site-title { font-weight: 750; letter-spacing: -.02em; }
 .page { padding-right: 0; }
+/* The legacy theme reserves two grid columns for an author sidebar at large
+   breakpoints, even when the profile itself is disabled. The homepage has its
+   own three-column hero, so let it use and centre within the full main area. */
+.page.page--research-home {
+  float: none;
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
 .page__inner-wrap .page__content { margin: 0; }
 .page__title { display: none; }
 .page__footer { margin-top: 0; }
@@ -199,3 +210,4 @@ body { overflow-x: hidden; color: var(--ink); }
 }
 
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } .button { transition: none; } }
+
