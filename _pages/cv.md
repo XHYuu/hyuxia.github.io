@@ -26,10 +26,10 @@ B.E. in Computer Science and Technology · 2020–2024
 ## Publications
 
 **Decoupled Residual Denoising Diffusion Models for Unified and Data-Efficient Image-to-Image Translation**<br>
-Ziyue Lin*, Jiahe Hou*, **Hongyu Xia***, Xinrui Xie, Feifei Wang, Yuyin Zhou, Wei Wang, Jiawei Liu, and Liangqiong Qu. Manuscript, 2026.
+Ziyue Lin*, Jiahe Hou*, **Hongyu Xia***, Xinrui Xie, Feifei Wang, Yuyin Zhou, Wei Wang, Jiawei Liu, and Liangqiong Qu. *Computer Vision and Pattern Recognition Conference (CVPR)*, 2026. [Paper](https://arxiv.org/abs/2606.01048) · [Project](https://github.com/HKU-HealthAI/DRDD)
 
 **A Method of Vehicle Peripheral Objects Detection Based on Binocular Vision**<br>
-Xinyu Wang, **Hongyu Xia**, Zhichen Huang, Zihao Yuan, and Wei Zhou. *China Automation Congress (CAC)*, 2023. [DOI](https://doi.org/10.1109/CAC59555.2023.10451039)
+Xinyu Wang, **Hongyu Xia**, Zhichen Huang, Zihao Yuan, and Wei Zhou. *China Automation Congress (CAC)*, 2023. [Paper](https://ieeexplore.ieee.org/abstract/document/10451039/)
 
 ## Research Experience
 
@@ -64,3 +64,4 @@ Xinyu Wang, **Hongyu Xia**, Zhichen Huang, Zihao Yuan, and Wei Zhou. *China Auto
 **Frameworks:** PyTorch, PaddlePaddle<br>
 **Programming:** Python, Go, Java, C<br>
 **Languages:** Chinese (native), English (professional working proficiency)
+
