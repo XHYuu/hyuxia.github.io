@@ -64,10 +64,10 @@ redirect_from:
     <div class="work-list">
       <article class="work-row has-media">
         <div class="work-thumbnail"><img src="{{ '/images/DRDD-poster.jpg' | relative_url }}" alt="Poster for Decoupled Residual Denoising Diffusion Models" loading="lazy"></div>
-        <div class="work-copy"><p class="work-venue">Manuscript · 2026</p><h3>Decoupled Residual Denoising Diffusion Models for Unified and Data-Efficient Image-to-Image Translation</h3><p class="work-authors">Ziyue Lin*, Jiahe Hou*, <strong>Hongyu Xia*</strong>, Xinrui Xie, Feifei Wang, Yuyin Zhou, Wei Wang, Jiawei Liu, and Liangqiong Qu</p><p>Decouples diffusion into stochastic domain alignment and deterministic semantic mapping for unified, data-efficient image-to-image translation.</p><div class="work-links"><a href="https://github.com/HKU-HealthAI/DRDD" target="_blank" rel="noopener">Project</a></div></div>
+        <div class="work-copy"><p class="work-venue"><em>Computer Vision and Pattern Recognition</em> Conference · CVPR 2026</p><h3>Decoupled Residual Denoising Diffusion Models for Unified and Data-Efficient Image-to-Image Translation</h3><p class="work-authors">Ziyue Lin*, Jiahe Hou*, <strong>Hongyu Xia*</strong>, Xinrui Xie, Feifei Wang, Yuyin Zhou, Wei Wang, Jiawei Liu, and Liangqiong Qu</p><p>Decouples diffusion into stochastic domain alignment and deterministic semantic mapping for unified, data-efficient image-to-image translation.</p><div class="work-links"><a href="https://arxiv.org/abs/2606.01048" target="_blank" rel="noopener">Paper</a><a href="https://github.com/HKU-HealthAI/DRDD" target="_blank" rel="noopener">Project</a></div></div>
       </article>
       <article class="work-row no-media">
-        <div class="work-copy"><p class="work-venue">China Automation Congress (CAC) · 2023</p><h3>A Method of Vehicle Peripheral Objects Detection Based on Binocular Vision</h3><p class="work-authors">Xinyu Wang, <strong>Hongyu Xia</strong>, Zhichen Huang, Zihao Yuan, and Wei Zhou</p><p>A binocular-vision approach for detecting objects around vehicles and supporting robust environmental perception.</p><div class="work-links"><a href="https://doi.org/10.1109/CAC59555.2023.10451039" target="_blank" rel="noopener">Paper</a></div></div>
+        <div class="work-copy"><p class="work-venue">China Automation Congress (CAC) · 2023</p><h3>A Method of Vehicle Peripheral Objects Detection Based on Binocular Vision</h3><p class="work-authors">Xinyu Wang, <strong>Hongyu Xia</strong>, Zhichen Huang, Zihao Yuan, and Wei Zhou</p><p>A binocular-vision approach for detecting objects around vehicles and supporting robust environmental perception.</p><div class="work-links"><a href="https://ieeexplore.ieee.org/abstract/document/10451039/" target="_blank" rel="noopener">Paper</a></div></div>
       </article>
     </div>
 
@@ -94,3 +94,4 @@ redirect_from:
 
   <section class="home-section contact-panel" id="contact"><p class="section-kicker">Contact</p><h2>Interested in generative visual intelligence?</h2><p>I welcome conversations about research, collaboration, and new ideas in generative AI.</p><a class="button button-light" href="mailto:26b951110@stu.hit.edu.cn">Get in touch</a></section>
 </div>
+
