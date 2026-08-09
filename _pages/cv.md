@@ -1,73 +1,66 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Profile
 
-Education
-======
-* M.Sc. in Artificial Intelligence, The University of Hong Kong, 2024.09 - present  
-  * Major GPA: 3.72/4.3  
-  * Relevant Coursework: Foundations of Artificial Intelligence, Deep Learning, Big Data Analytics, Topics in artificial intelligence and machine learning, Applied data mining and text analytics.
-* B.E. in Computer Science, Central South University, 2020.09 - 2024.07  
-  * Major GPA: 90.05/100.0  
-  * Relevant Coursework: Artificial Intelligence, Digital Image Processing, Computer Vision, Computer Networking Technology, Fundamentals of Disk Operating System, Man-Machine Interaction
+Ph.D. student in Computer Science and Technology at Harbin Institute of Technology (Shenzhen), advised by [**Prof. Wenjie Pei**](https://wenjiepei.github.io/). My research focuses on generative AI, controllable image and video editing, world models, and computer vision.
 
-Work experience
-======
-* 2023.07 - 2023.10: Beijing Baidu Wangxun Technology Co., Ltd.
-  * File Table Structure Line Extraction and Intelligent Q&A
-  * Duties included: Extracted table structures from complex images using OpenCV and OCR, developed Golang back-end services for table merging and document node management, integrated LLMs (e.g., YiYan) for intelligent Q&A and document parsing.
-  * Achievements: Achieved >95% accuracy in table recognition (over 1,400 images), optimized processing time (<150ms per image), deployed solutions in production.
+## Education
 
-Research experience
-======
-* 2025.06 - 2025.11: The University of Hong Kong
-  * Decoupled Residual Denoising Diffusion Models for Efficient and Unified Image-to-Image Transformation
-  * Duties included: Designed a unified diffusion framework for handling various image degradations, proposed a two-stage denoising process, and conducted systematic ablation studies.
-  * Achievements: Reached SOTA on five public benchmarks, improved model generalization and scalability in multi-task image restoration scenarios.
+**Harbin Institute of Technology (Shenzhen)**<br>
+Ph.D. in Computer Science and Technology · 2025–Present<br>
+Advisor: [Prof. Wenjie Pei](https://wenjiepei.github.io/)
 
-* 2023.12 - 2024.05: Central South University
-  * Detection of Diseased Cells Based on Visual Language Model and Application
-  * Duties included: Developed a multi-modal method for cell image object detection, integrating both text and image data, and compared multiple classifier types.
-  * Achievements: Achieved the highest detection/classification accuracy on target datasets, significantly reduced the need for large annotated datasets.
+**The University of Hong Kong**<br>
+M.Sc. in Artificial Intelligence · 2024–2025
 
-* 2022.05 - 2023.04: Central South University
-  * Remote Sensing Image Target Detection Based on Rotation Invariance
-  * Duties included: Built a rotation-invariant CNN-Transformer model, analyzed classification performance across different object types and rotations.
-  * Achievements: The designed network outperformed Fast RCNN after extensive rotation tests, demonstrating strong rotation invariance in remote sensing image analysis.
+**Central South University**<br>
+B.E. in Computer Science and Technology · 2020–2024
 
-Skills
-======
-* Deep Learning Frameworks
-  * PaddlePaddle
-  * PyTorch
-* Interest areas
-  * Large Language Model
-  * Prompt Learning
-  * Computer Vision (Detection, Generation, Translation)
-  * Vision Language Model
-* Programming Languages: Java, Python, Golang, C
-* Languages
-  * Chinese (Native)
-  * English (Fluent, IELTS 6.5)
+## Publications
 
-Publications
-======
-<ul>
-  <li>
-    X. Wang, H. Xia, Z. Huang, Z. Yuan, W. Zhou, 
-    "<b>A Method of Vehicle Peripheral Objects Detection Based on Binocular Vision</b>", 
-    2023 China Automation Congress (CAC), Chongqing, China, pp. 1893-1897, doi: 
-    <a href="https://doi.org/10.1109/CAC59555.2023.10451039">10.1109/CAC59555.2023.10451039</a>. (Accepted)
-  </li>
-  <li>
-    "<b>Decoupled Residual Denoising Diffusion Models for Unified and Data Efficient Image-to-Image Translation</b>", 
-    Submitted to International Conference on Learning Representations (ICLR), 2026. (Under Review)
-  </li>
-</ul>
+**Decoupled Residual Denoising Diffusion Models for Unified and Data-Efficient Image-to-Image Translation**<br>
+Ziyue Lin*, Jiahe Hou*, **Hongyu Xia***, Xinrui Xie, Feifei Wang, Yuyin Zhou, Wei Wang, Jiawei Liu, and Liangqiong Qu. Manuscript, 2026.
+
+**A Method of Vehicle Peripheral Objects Detection Based on Binocular Vision**<br>
+Xinyu Wang, **Hongyu Xia**, Zhichen Huang, Zihao Yuan, and Wei Zhou. *China Automation Congress (CAC)*, 2023. [DOI](https://doi.org/10.1109/CAC59555.2023.10451039)
+
+## Research Experience
+
+**Decoupled Residual Denoising Diffusion Models** · The University of Hong Kong · 2025
+
+- Designed a unified diffusion framework for multiple image degradation and transformation tasks.
+- Investigated a decoupled residual-estimation and denoising strategy for data-efficient image-to-image translation.
+- Conducted systematic ablation studies and evaluations on five public benchmarks.
+
+**Diseased Cell Detection with Vision-Language Models** · Central South University · 2023–2024
+
+- Developed a multimodal method combining cell imagery and textual information for detection and classification.
+- Evaluated multiple classifier families and reduced reliance on large annotated datasets.
+
+**Rotation-Invariant Object Detection in Remote-Sensing Imagery** · Central South University · 2022–2023
+
+- Designed a rotation-invariant CNN–Transformer architecture for remote-sensing object detection.
+- Evaluated robustness across object categories and rotations and compared performance with established detection baselines.
+
+## Industry Experience
+
+**Software Engineering Intern** · Baidu · Jul–Oct 2023
+
+- Built table-structure extraction pipelines for complex document images using OpenCV and OCR.
+- Developed Golang back-end services for table merging and document-node management.
+- Integrated large language models for intelligent question answering and document parsing.
+- Achieved over 95% table-recognition accuracy on more than 1,400 images and reduced processing time to under 150 ms per image before production deployment.
+
+## Technical Skills
+
+**Research:** Generative AI, controllable image and video editing, world models, computer vision, diffusion models<br>
+**Frameworks:** PyTorch, PaddlePaddle<br>
+**Programming:** Python, Go, Java, C<br>
+**Languages:** Chinese (native), English (professional working proficiency)

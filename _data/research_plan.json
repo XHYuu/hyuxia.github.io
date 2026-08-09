@@ -1,0 +1,8 @@
+{
+  "updated": "August 2026",
+  "title": "Flow-Matching-Based Controllable Image and Video Editing",
+  "summary": "I am developing a controllable image and video editing framework based on Flow Matching.",
+  "detail": "The project aims to support fast, locally controllable, and traceable chain-of-edit operations, making each editing step easier to understand, follow, and refine.",
+  "invitation": "I welcome researchers working on generative models, visual editing, and related areas to discuss ideas and explore potential collaborations.",
+  "tags": ["Flow Matching", "Local Control", "Image & Video Editing", "Traceable Editing"]
+}

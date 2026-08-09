@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Xia Hongyu"
+title                    : "Hongyu Xia"
 title_separator          : "-"
-name                     : &name "Xia Hongyu"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Hongyu Xia"
+description              : &description "Hongyu Xia — Ph.D. student researching generative AI, controllable image and video editing, world models, and computer vision."
 url                      : https://xhyuu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/hyuxia.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : ""
 repository               : "XHYuu/hyuxia.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -23,14 +23,14 @@ repository               : "XHYuu/hyuxia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "XIA Hongyu (夏鸿宇)"
+  avatar           : "profile-photo.jpg"
+  name             : "Hongyu Xia (夏鸿宇)"
   pronouns         : # example: "she/her"  
-  bio              : "MSc in Artificial Intelligent"
-  location         : "HongKong, China"
-  employer         : "HongKong University"
+  bio              : "Ph.D. Student · Generative AI"
+  location         : "Shenzhen, China"
+  employer         : "Harbin Institute of Technology (Shenzhen)"
   uri              : # URL
-  email            : "xiahyu@connect.hku.hk" 
+  email            : "26b951110@stu.hit.edu.cn"
 
   # Academic websites
   academia         : # URL
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "XHYuu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -122,7 +122,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true
   path                   : # blank (default) uses feed.xml
 
 

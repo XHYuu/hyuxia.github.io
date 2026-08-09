@@ -18,3 +18,8 @@ package-lock.json
 
 # Ignore folders related to IDEs
 .vscode/
+
+# Local preview environments and generated preview pages
+.conda-preview/
+.conda-jekyll/
+_preview/
